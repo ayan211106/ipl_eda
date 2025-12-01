@@ -8,27 +8,18 @@ The goal of this project is to go beyond surface-level statistics and uncover wh
 
 ## Project Structure
 
-IPL_EDA/
-│
-├── csv data/
-│ ├── matches.csv
-│ └── deliveries.csv
-│
-├── IPL_Data_Analysis.ipynb
-│
-├── output/
-│ ├── IPL_merged.csv
-│ ├── bowler economy.png
-│ ├── chase vs defend.png
-│ ├── death overs.png
-│ ├── most wins.png
-│ ├── orange cap.png
-│ ├── purple cap.png
-│ ├── run rate.png
-│ ├── strike rate.png
-│ ├── toss win.png
-│ └── win_pct.png
-│
+IPL_EDA/  
+│  
+├── csv data/  
+│ ├── matches.csv  
+│ └── deliveries.csv  
+│  
+├── IPL_Data_Analysis.ipynb  
+│  
+├── output/  
+│ ├── IPL_merged.csv  
+│ ├── Plots  
+│  
 └── README.md
 
 
